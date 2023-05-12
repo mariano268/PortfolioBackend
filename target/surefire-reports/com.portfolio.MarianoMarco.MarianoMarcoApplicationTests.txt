@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.portfolio.MarianoMarco.MarianoMarcoApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.253 s - in com.portfolio.MarianoMarco.MarianoMarcoApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.796 s - in com.portfolio.MarianoMarco.MarianoMarcoApplicationTests
