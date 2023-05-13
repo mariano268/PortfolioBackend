@@ -12,6 +12,7 @@ com\portfolio\MarianoMarco\Interface\IEducacionService.class
 com\portfolio\MarianoMarco\security\service\UserDetailsImpl.class
 com\portfolio\MarianoMarco\security\entity\UsuarioPrincipal.class
 com\portfolio\MarianoMarco\security\jwt\JwtTokenFilter.class
+com\portfolio\MarianoMarco\WebConfig.class
 com\portfolio\MarianoMarco\Entity\Persona.class
 com\portfolio\MarianoMarco\Service\ImpExperienciaService.class
 com\portfolio\MarianoMarco\security\repository\iUsuarioRepository.class
